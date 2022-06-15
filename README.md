@@ -30,5 +30,3 @@ Sou apaixonado por aprender e resolver problemas.
 </p>
 
 ![MBodra GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbodra&count_private=true&show_icons=true&theme=tokyonight)
-
-Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
