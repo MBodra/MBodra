@@ -11,6 +11,8 @@
 Olá! Meu nome é **Matheus Bodra**. Sou de Santo André - SP, Brasil.
 <br/>
 Sou apaixonado por aprender e resolver problemas.
+<br/>
+Desenvolvo aplicações para Web com as seguintes ferramentas:
 
 **Linguagens e ferramentas**  
 <p>
