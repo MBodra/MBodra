@@ -5,10 +5,11 @@
   <img align="left" alt="MBodra Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/gmail.svg" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
 
 Olá! Meu nome é **Matheus Bodra**. Sou de Santo André - SP, Brasil.
+<br/>
 Sou apaixonado por aprender e resolver problemas.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
