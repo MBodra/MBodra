@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/matheus-bodra/">
-  <img align="left" alt="MBodra LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="MBodra LinkdeIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:matheusbodra@gmail.com">
-  <img align="left" alt="MBodra Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/gmail.svg" />
+  <img align="left" alt="MBodra Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/gmail.svg" />
 </a>
 
 <br/>
